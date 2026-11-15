@@ -1,0 +1,17 @@
+{
+    "nombre": "Nathaly",
+    "apellido": "Campos",
+    "email": "somalenalee13@gmail.com",
+    "token": "34eeb46a-6c7c-41cc-8bd7-3e7501deb11b",
+    "fecha_utc": "2026-11-15T20:38:38.322737+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "026a04fa49ae",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "21b3529dfbfc9b18659504a85411480f78cd838119366eda20a90793e2c99425"
+}
